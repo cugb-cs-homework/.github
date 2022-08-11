@@ -1,4 +1,4 @@
-<div style="background-image: url('./README.assets/back.jpg'); border-style: solid; border-color: black; border-radius: 10px;">
+<div style="background-image: url('README.assets/back.jpg'); border-style: solid; border-color: black; border-radius: 10px;">
   	<p align="center">
      <img width="10%" src="README.assets/home.png" align="center" alt="home" style="margin: 0; border-radius:50px;  width:100px; height:100px; background-color:#eeeeee; "/>
      <p style="font-weight: bold;" align="center">咯咯咯咯哒🥚</p>
