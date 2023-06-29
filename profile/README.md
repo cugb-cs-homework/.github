@@ -11,7 +11,7 @@
           <img src="https://img.shields.io/badge/qq-contact-ff69b4?logo=Tencent QQ&logoColor=66ccff&style=flat" />
         </a>
         <a href="https://github.com/orgs/cugb-cs-homework/repositories">
-          <img alt="repositories" src="https://img.shields.io/badge/repository-23-yellow?style=social&logo=CodeSandbox&logoColor=blue" />
+          <img alt="repositories" src="https://img.shields.io/badge/repository-27-yellow?style=social&logo=CodeSandbox&logoColor=blue" />
         </a>
         <br/>
         <a href="https://github.com/pengpenglang">
